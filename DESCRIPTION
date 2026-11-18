@@ -1,0 +1,12 @@
+Package: StudentPackage
+Title: Student Utility Package
+Version: 0.0.0.9000
+Authors@R: 
+    person("Student", "Name", , "student@example.com", role = c("aut", "cre"))
+Description: A small demonstration package created for the R Programming Lab
+    (Experiment 11). It provides simple arithmetic helper functions and shows
+    how to document, build, install and publish an R package through GitHub.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
